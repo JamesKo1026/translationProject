@@ -18,8 +18,8 @@
                     <li><a href="#"><span class="glyphicon glyphicon-search" aria-hidden="true"></span>Document Search</a></li>
                     <li><a href="#"><span class="glyphicon glyphicon-search" aria-hidden="true"></span>Keyword in Context Search</a></li>
                     <li><a href="/about">About TCUS</a></li>
-                    <li><a href="/login">Login</a></li>
                     <li><a href="/contact">Contact</a></li>
+                    <li><a href="/login">Login</a></li>
                     <!--<li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
                         <ul class="dropdown-menu">
