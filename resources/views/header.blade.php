@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Taiwan Comprehensive University System</title>
+    <link rel="shortcut icon" href="/image/favicon2.ico">
     <link href="/bs/css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
     <script src="https://code.jquery.com/jquery-2.2.4.min.js"
