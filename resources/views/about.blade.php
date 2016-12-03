@@ -33,19 +33,19 @@
                             <div class="panel panel-primary">
                                 <div class="panel-heading">TCUS Global College</div>
                                 <div class="panel-body">
-                                    <a href="http://www.oia.nchu.edu.tw/g_college/en/"> TCUS Global College Website</a>
+                                    <a href="http://www.oia.nchu.edu.tw/g_college/en/"><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span> TCUS Global College Website</a>
                                 </div>
                             </div>
                             <div class="panel panel-primary">
                                 <div class="panel-heading">TCUS International Summer School</div>
                                 <div class="panel-body">
-                                    <a href="	http://taiwanstudy.asia/"> TCUS International Summer School Website</a>
+                                    <a href="	http://taiwanstudy.asia/"><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span> TCUS International Summer School Website</a>
                                 </div>
                             </div>
                             <div class="panel panel-primary">
                                 <div class="panel-heading">TCUS Sports Student Recruiting</div>
                                 <div class="panel-body">
-                                    <a href="http://elitesports.tcus.edu.tw/"> TCUS Sports Student Recruiting Website(Chinese site)</a>
+                                    <a href="http://elitesports.tcus.edu.tw/"><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span> TCUS Sports Student Recruiting Website(Chinese site)</a>
                                 </div>
                             </div>
                         </div>

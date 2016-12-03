@@ -13,13 +13,13 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/news">News</a></li>
-                    <li><a href="#"><span class="glyphicon glyphicon-search" aria-hidden="true"></span>Document Search</a></li>
-                    <li><a href="#"><span class="glyphicon glyphicon-search" aria-hidden="true"></span>Keyword in Context Search</a></li>
-                    <li><a href="/about">About TCUS</a></li>
-                    <li><a href="/contact">Contact</a></li>
-                    <li><a href="/login">Login</a></li>
+                    <li><a href="/"><span class="glyphicon glyphicon-home" aria-hidden="true"></span> Home</a></li>
+                    <li><a href="/news"><span class="glyphicon glyphicon-globe" aria-hidden="true"></span> News</a></li>
+                    <li><a href="#"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Document Search</a></li>
+                    <li><a href="#"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Keyword in Context Search</a></li>
+                    <li><a href="/about"><span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> About TCUS</a></li>
+                    <li><a href="/contact"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Contact</a></li>
+                    <li><a href="/login"><span class="glyphicon glyphicon-user" aria-hidden="true"></span> Login</a></li>
                     <!--<li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
                         <ul class="dropdown-menu">
