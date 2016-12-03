@@ -34,6 +34,8 @@
                                 <div class="panel-heading">TCUS Global College</div>
                                 <div class="panel-body">
                                     <a href="http://www.oia.nchu.edu.tw/g_college/en/"><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span> TCUS Global College Website</a>
+                                    <br>
+                                    <a href="https://www.facebook.com/CustGlobalCollege/" target="_blank"><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span> Facebook: <img src="image/facebook-icon.jpg" width="53" height="19"/></a>
                                 </div>
                             </div>
                             <div class="panel panel-primary">
