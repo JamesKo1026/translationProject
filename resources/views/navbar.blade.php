@@ -19,7 +19,8 @@
                 <li><a href="#"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Keyword in Context Search</a></li>
                 <li><a href="/about"><span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> About TCUS</a></li>
                 <li><a href="/contact"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Contact</a></li>
-                <li><a href="/upload"><span class="glyphicon glyphicon-inbox" aria-hidden="true"></span> Upload</a></li>
+                <li><a href="/upload"><span class="glyphicon glyphicon-upload" aria-hidden="true"></span> Upload</a></li>
+                <li><a href="/login"><span class="glyphicon glyphicon-heart" aria-hidden="true"></span> Sign up</a></li>
                 <li><a href="/login"><span class="glyphicon glyphicon-user" aria-hidden="true"></span> Login</a></li>
                 <!--<li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>

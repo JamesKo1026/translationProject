@@ -12,19 +12,26 @@
                 <div class="row">
                     <div class="col-lg-4"></div>
                     <div class="col-lg-4">
-                        <body>
-                        <div class="container text-center">
-                            <form class="form-signin">
 
-                                    <h2 class="form-signin-heading"> Upload document</h2>
+                        <body>
+
+                        <div class="container text-center">
+
+                            <form class="form-signin">
+                                <h2 class="form-signin-heading"> Upload document</h2>
 
                                 <button class="btn btn-lg btn-primary btn-block" type="submit">Upload</button>
                             </form>
+
+
                         </div> <!-- /container -->
+
+
                         <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
                         <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
                         </body>
                     </div>
+
                     <div class="col-lg-4"></div>
                 </div>
 
